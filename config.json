@@ -1,7 +1,1 @@
-{
-  "customer_id": "2b3234333734333e323e3f",
-  "button_text_contents": {
-    "before_connecting": "Estimate Refund",
-    "after_connecting": "Estimating.."
-  }
-}
+%7B%0A%20%20%22customer_id%22%3A%20%222b3234333734333e323e3f%22%2C%0A%20%20%22button_text_contents%22%3A%20%7B%0A%20%20%20%20%22before_connecting%22%3A%20%22Estimate%20Refund%22%2C%0A%20%20%20%20%22after_connecting%22%3A%20%22Estimating..%22%0A%20%20%7D%0A%7D
